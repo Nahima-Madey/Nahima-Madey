@@ -1,3 +1,4 @@
+![ALX Certificate](https://github.com/user-attachments/assets/3bda696a-cba6-41dd-95e7-1048819413d7)
 # 💫 About Me:
 🔭 I’m currently working on: Building dynamic, user-centric web applications<br>👯 I’m looking to collaborate: Exciting tech projects<br>🌱 I’m currently learning: AWS Solutions Architect certification to enhance cloud expertise<br>💬 Ask me about: FrontEnd Softwares<br>⚡ Fun fact: I love reading thriller novels—there’s nothing like a good plot twist to unwind after coding!
 
